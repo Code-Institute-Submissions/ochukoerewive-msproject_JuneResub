@@ -20,6 +20,11 @@ Download folder and open the source files.
 ### Source
 All text content were written by me. Images were designed by me, except kumchop1.png which is a friends business logo.
 
+## Wifreframes images
+this images are in Wireframe folder
+
+## Mopup files
+there are in the images folder
 
 ## Technology
 ### Webpage
