@@ -36,6 +36,13 @@ I used these third party libraries:
 
 * [GOOGLE FONTS](http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800)
 
+### Testing
+* The site is easy to view and accessable without any guide
+* All button leads back to the home page
+* All images and logo lead back to the home page upan clicking
+* Tested in chrome and windows browsers both mobile, Ipad and desktop formats which some of the images are in the images folder
+
+
 
 ### Attributions
 To myself and also the the videos from code institude led to my achieving the success of this Project
