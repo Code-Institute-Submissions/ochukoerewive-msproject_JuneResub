@@ -1,4 +1,8 @@
 # Milestone Project by OCHUKO EREWIVE
+Building a one page website using HTML and CSS. Easy to move around the page by scrolling down and up with all major information at the eface of the reader, clients, examiner and so on.
+This is a site whereby its user friendly and can be accessable by all age groups.
+
+
 A one page website built using HTML and CSS. Simple and easy to use. Neat design with reduced color contractions
 
 
