@@ -20,15 +20,21 @@ Download folder and open the source files.
 
 
 ## Content
-Contents were written in other to achieve a clean and neat web pages.
-All text and maybe information in the web pages are written by me. 
-Images are also my design except kumchop1.png which is a friend's business logo.
+* Contents were written in other to achieve a clean and neat web pages.
+* All text and maybe information in the web pages are written by me. 
+* Images are also my design except kumchop1.png which is a friend's business logo.
 
 
-### Source
+## Source
++ Some free video tutorials from youtube.
++ Some conversation with some student at Code institude.
+* Taking some step back to some classes to ensure some attributes function properly.
 
 ## Wifreframes images
-this images are in Wireframe folder
+* Ipad view.
+* Mobile view.
+* Lighthouse tool
+* The Full page wireframe for this project
 
 ## Mopup files
 there are in the images folder
