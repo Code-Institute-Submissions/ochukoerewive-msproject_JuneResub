@@ -20,8 +20,12 @@ Download folder and open the source files.
 
 
 ## Content
+Contents were written in other to achieve a clean and neat web pages.
+All text and maybe information in the web pages are written by me. 
+Images are also my design except kumchop1.png which is a friend's business logo.
+
+
 ### Source
-All text content were written by me. Images were designed by me, except kumchop1.png which is a friends business logo.
 
 ## Wifreframes images
 this images are in Wireframe folder
