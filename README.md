@@ -62,5 +62,5 @@ I used these third party libraries:
 
 
 ## Attributions
-To myself and also the the videos from code institude led to my achieving the success of this Project
+To myself and also the the videos from code institude led to my achieving the success of this Project.
 
