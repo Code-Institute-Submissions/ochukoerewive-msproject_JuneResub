@@ -1,12 +1,10 @@
 # Milestone Project by OCHUKO EREWIVE
+
+# UX
 Building a one page website using HTML and CSS. Easy to move around the page by scrolling down and up with all major information at the eface of the reader, clients, examiner and so on.
 This is a site whereby its user friendly and can be accessable by all age groups.
 
 Plain background was chosen in other to achieve a neat and clean website in other to have all information easy to read and easy eye movements.
-
-
-## Usage
-Download folder and open the source files. 
 
 
 ## Source Files Included:
@@ -31,8 +29,8 @@ Download folder and open the source files.
 * Taking some step back to some classes to ensure some attributes function properly.
 
 ## Wifreframes images
-* Ipad view.
-* Mobile view.
+* ![alt text here](Ipad view.JPG)
+* Mobile view).
 * Lighthouse tool
 * The Full page wireframe for this project
 
@@ -60,6 +58,7 @@ I used these third party libraries:
 * Tested website in chrome and windows browsers, mobile phones, Ipad and desktop formats.
 *All images are in the images folder
 * Tested with chrome lighthouse testing alsome.
+* Facebook, twitter, youtube and linkedIn Icon leads to their own home pages. This is to ensure that the links function rightly.
 
 
 ## Attributions
