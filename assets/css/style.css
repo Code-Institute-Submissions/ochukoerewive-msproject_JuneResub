@@ -97,11 +97,13 @@ html {
       position: absolute;
       z-index: 9;
       width: 100%;
-  }
+      
+      }
   
   .toggle,
   [id^=drop] {
       display: none;
+      
   }
   
   /* Giving a background-color to the nav container. */
@@ -131,6 +133,7 @@ html {
   nav.mnu {
       width: 50%;
       text-align: center;
+      
   }
   /* Since we'll have the "ul li" "float:left"
    * we need to add a clear after the container. */
