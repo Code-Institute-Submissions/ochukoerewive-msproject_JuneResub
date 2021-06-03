@@ -1,7 +1,56 @@
 # OCHUKO EREWIVE WEBSITE
 
 ## User-Centric Frontend Development Milestone Project.
-![](pages-view.jpg)
+![page-view](assets/images/page-view.jpg)
+
+A website presenting Ochuko Erewive's Resume. Users will be able to find instresting content of work done in an easy and simple way.
+
+This project is for educational purposes and can not be be used as a template for any personal use. Main aim is to build a responsive website with HTML and CSS only.
+
+Bootstrap is used to make it clear and clean.
+
+## Live website can be viewd in githup
+
+
+
+#  UX
+
+## Website Resume goals
+
+The reason for this website is to create a Resume showcasing and selling your ability and talents of all the work you have done in the past years and also to convince any potential employer in search of a Full-Stack Developer in his/her reputable organisation. With this site, detailed past experienced work is displayed to measure one's ability.
+
+USER GOALS
+
+New User Goals:
++ User is able to find information about potential employee.
++ User is able to find past detailed work done.
++ User is able to see and notice the strength of potential employee.
+
+Returning User Goals:
++ User can contact the potential employee via the form or any of the social media platforms.
++ User can learn more about the potential employee.
+
+UER STORIES
+
+As a business owner:
++ I would like to make myself well known in the world via the internet.
++ Mkae my information accessable to any potential business/employee.
+
+As a new customer:
++ I will need to contact my business partner or my employee.
++ I need to check out new information or updates of business partner or employee.
+
+As a returning customer:
++ I need to contact co-partner and also schedule meetings for future goal.
++ I would love to connect my business partner/employee to  someone else 
+
+
+
+
+
+
+
+
 
 # UX
 Building a one page website using HTML and CSS. Easy to move around the page by scrolling down and up with all major information at the eface of the reader, clients, examiner and so on.
