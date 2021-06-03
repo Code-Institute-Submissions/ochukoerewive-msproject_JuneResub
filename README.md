@@ -1,4 +1,7 @@
-# Milestone Project by OCHUKO EREWIVE
+# OCHUKO EREWIVE WEBSITE
+
+## User-Centric Frontend Development Milestone Project.
+![](pages-view.jpg)
 
 # UX
 Building a one page website using HTML and CSS. Easy to move around the page by scrolling down and up with all major information at the eface of the reader, clients, examiner and so on.
