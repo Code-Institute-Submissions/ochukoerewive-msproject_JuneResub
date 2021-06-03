@@ -116,26 +116,51 @@ I used these third party libraries:
 The site was tested in google chrom, mozilla and windows browsers.
 
 # Compatibility testing
-Site was tested across multiple virtual mobile
+Site was tested across multiple virtual mobile devices and bowsers.
+
+Tested also on hardware devices, on Dell pc and Hp pc.
+
+# Performace testing
+
+![Performace testing](assets/wireframe/PerformaceTesting.JPG)
+
+![Performace testing](assets/wireframe/PerformaceTesting2.JPG)
 
 
+Code Validation
+
++ W3C CSS Validator to validate CSS
++ Nu Html Checker to test HTML
+
+#  Deployment
+This project was deployed in  GitHub which Gitpod is the development environment used.
+I used git command to save all changes into GitHub.
+
+To ply the project,
++ Log into GitHub and click on (MSPROJECT)
++ From the settings in GitHub, scroll down a little to the bottom of the page wher you will see "GitHub Pages.
++ from there you will see the repository address: https://ochukoerewive.github.io/msproject/
 
 
+CREDITS
++ Code Institude student template was used to achieve my MS Project 1
 
 
+Ideas and knowledge library:
++ w3schools.com
++ css-tricks.com
++ getbootstrap.com 
 
-## Testing
-* The site is easy to view and accessable without any guide.
-* The form has the a JS code in the HTML file that gives a feedback to the user, making it friendly and interactive to the user. 
-* All button function excellently well. 
-* All images are static and not clickable.
-* Logos at "Mt Recent Works" are also not clickable.
-* Tested website in chrome and windows browsers, mobile phones, Ipad and desktop formats.
-*All images are in the images folder
-* Tested with chrome lighthouse testing alsome.
-* Facebook, twitter, youtube and linkedIn Icon leads to their own home pages. This is to ensure that the links function rightly.
+## Screen Shots
+![Performace testing](assets/wireframe/1.JPG)
+
+![Performace testing](assets/wireframe/2.JPG)
+
+![Performace testing](assets/wireframe/3.JPG)
+
+![Performace testing](assets/wireframe/4.JPG)
 
 
-## Attributions
-To myself and also the the videos from code institude led to my achieving the success of this Project.
+With this, i hope you can nevigate through the site
 
+# Thank you
