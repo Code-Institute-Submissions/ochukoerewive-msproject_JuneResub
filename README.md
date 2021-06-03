@@ -59,6 +59,43 @@ Mobile View
 ![Ipad view](assets/wireframe/MOBILEVIEW.JPG)
 
 
+SURFACE
+
+COLORS:
++ background color: #f7f7f7
++ Font color: #000
++ Font color: #3e3e3e
++ link Color: #DC143C
+
+IMAGES:
++ Images used are original
+
+## FEATURES
+The website consist of four pages. Three are accessible from the navigation menu.
+
+NAVIGATION BAR
++ The navigation bar is visible on the top of the website. It is responsive and will adapt to mobile devices.
+### Navigation Scheme consist of the follow; 
++ Home
++ My Services
++ My Work
++ Contact Me
+
+FOOTER:
+The foot consist of the following pages;
++ facebook, twitter, linkedIn and youtube icon. All icon are linkable to the sign-up/home pages respectively.
+
+# Home
++ Consister of a picture at the lefthand side and also a discribtion/title at the righthand side.
+
+# My Services
++ Consist of applicant abilities and work efficient.
+
+# My Work
++ Which consist of my recent work done and a little gallery display of company logos.
+
+# Contact Me
+The contact part consist of the form that requires , nammes, email address, asubject and a short message
 
 
 
