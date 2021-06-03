@@ -42,9 +42,21 @@ As a new customer:
 
 As a returning customer:
 + I need to contact co-partner and also schedule meetings for future goal.
-+ I would love to connect my business partner/employee to  someone else 
++ I would love to connect my business partner/employee to  someone else.
+
+# Structure Of The Website
+
+This website is user friendly  to all platforms; Desktop computer, Laptop computer, phones, Ipad, Iphones and tablets pc. Every aspect of the website is designed to achieve maximum user satisfaction.
+
+# Wireframes
++ The wireframes were designed using corel-draw platforms. Below is the Ipad view and the mobile view of the website.
+
+Ipad view
+![Ipad view](assets/wireframe/Ipadview.JPG)
 
 
+Mobile View
+![Ipad view](assets/wireframe/MOBILEVIEW.JPG)
 
 
 
