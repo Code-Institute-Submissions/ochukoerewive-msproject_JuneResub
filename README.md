@@ -97,18 +97,7 @@ The foot consist of the following pages;
 # Contact Me
 The contact part consist of the form that requires , nammes, email address, asubject and a short message
 
-
-
-
-
-# UX
-Building a one page website using HTML and CSS. Easy to move around the page by scrolling down and up with all major information at the eface of the reader, clients, examiner and so on.
-This is a site whereby its user friendly and can be accessable by all age groups.
-
-Plain background was chosen in other to achieve a neat and clean website in other to have all information easy to read and easy eye movements.
-
-
-## Source Files Included:
+## Technologies used:
 * HTML File (.html)
 * CSS File (.css)
 * Bootstrap (.css)
@@ -118,36 +107,21 @@ Plain background was chosen in other to achieve a neat and clean website in othe
 * Wireframe file (.jpg)
 
 
-## Content
-* Contents were written in other to achieve a clean and neat web pages.
-* All text and maybe information in the web pages are written by me. 
-* Images are also my design except kumchop1.png which is a friend's business logo.
-
-
-## Source
-+ Some free video tutorials from youtube.
-+ Some conversation with some student at Code institude.
-* Taking some step back to some classes to ensure some attributes function properly.
-
-## Wifreframes images
-* ![alt text here](Ipad view.JPG)
-* Mobile view).
-* Lighthouse tool
-* The Full page wireframe for this project
-
-## Mopup files
-there are in the images folder
-
-## Technology
-The webpage was built using the following;
-* HTML.
-* CSS.
-* The icons are from Font-Awesome.
-
-
 ## 3rd party libraries
 I used these third party libraries:
 * [GOOGLE FONTS](http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800)
+
+
+## TESTING
+The site was tested in google chrom, mozilla and windows browsers.
+
+# Compatibility testing
+Site was tested across multiple virtual mobile
+
+
+
+
+
 
 
 ## Testing
