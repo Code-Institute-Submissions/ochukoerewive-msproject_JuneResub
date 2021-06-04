@@ -663,7 +663,7 @@ html {
   }
   
   .form-group .form-control {
-      -webkit-box-shadow: none;
+     
       border-bottom: 1px;
       border-style: none none solid none;
       border-color:#ffd708;
